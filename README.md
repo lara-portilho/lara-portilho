@@ -1,0 +1,7 @@
+- 👋️ Hello there! I’m @lara-portilho!
+- 📖️ I study Computer Engeneering at the Federal University of Goiás
+- 👀️ I'm looking for developing my programming skills
+- 🖥️ Programming languages:
+  - C (intermediate)
+  - Python (learning)
+  - Javascrtip (learning)
