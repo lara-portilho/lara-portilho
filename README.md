@@ -1,4 +1,5 @@
 ## [Meus projetos!](https://lara-portilho.github.io/)
+## [Meu blog!](https://laraportilho.wordpress.com/)
  
 - 👋️ Oie! Eu sou @lara-portilho!
 - 📖️ Estudo Engenharia de Computação na Universidade Federal de Goiás
