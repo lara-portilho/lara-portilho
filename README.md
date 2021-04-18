@@ -6,7 +6,7 @@
 - 👀️ Busco aprimorar minhas habilidades em programação
 - 🖥️ Linguagens de programação:
   - C (intermediário)
-  - Python (básico)
+  - Python (intermediário)
   - Javascript +HTML +CSS (básico)
 
 -------------------------
@@ -16,5 +16,5 @@
 - 👀️ I'm looking to improve my programming skills
 - 🖥️ Programming languages:
   - C (intermediate)
-  - Python (basic)
+  - Python (intermediate)
   - Javascript +HTML +CSS (basic)
