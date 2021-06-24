@@ -1,7 +1,7 @@
 <h3 align="center">👋 Olá, meu nome é Lara Portilho</h3>
 <p align="center">
   <a href="https://lara-portilho.github.io">Projetos</a> •
-  <a href="https://laraportilho.wordpress.com/">Blog</a>
+  <a href="mailto:lara.portilho.m@gmail.com@gmail.com">Contato</a>
 </p>
 
 ---
