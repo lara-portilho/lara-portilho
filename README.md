@@ -7,7 +7,7 @@
 ---
 
 ✨ Sou uma desenvolvedora júnior, com foco em desenvolvimento web (principalmente frontend). Atualmente sou trainee na empresa ELO Júnior e estudo Engenharia de Computação na UFG.<br><br>
-🌱 Apesar de ser iniciante no mundo da programação, estou sempre disposta a aprender novas tecnologias e me desenvolver tanto em *hard skills* quanto em *soft skills*.
+🌱 Apesar de ser iniciante no mundo da programação, estou sempre em busca de aprender novas tecnologias e desenvolver tanto *hard skills* quanto *soft skills*.
 Algumas linguagens que tenho conhecimento:
 - Javascript
   - React.js
