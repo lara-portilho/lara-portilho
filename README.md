@@ -6,12 +6,13 @@
 
 ---
 
-✨ Sou uma desenvolvedora júnior, com foco em desenvolvimento web (principalmente frontend). Atualmente sou desenvolvedora na empresa ELO Júnior Engenharias e Arquitetura e estudo Engenharia de Computação na UFG.<br><br>
-🌱 Apesar de ser iniciante no mundo da programação, estou sempre em busca de aprender novas tecnologias e desenvolver tanto *hard skills* quanto *soft skills*.
-Algumas linguagens que tenho conhecimento:
+✨ Olá, meu nome é Lara Portilho Marques. Sou uma desenvolvedora júnior, com foco em desenvolvimento web (principalmente frontend). Atualmente sou gerente de projetos na empresa ELO Jr Engenharias e Arquitetura e estudo Engenharia de Computação na UFG.<br><br>
+🌱 Apesar de ser jovem no mundo da programação, estou sempre em busca de aprender novas tecnologias e estar sempre em desenvolvimento.
+
+Linguagens
 - Javascript
   - React.js
   - Node.js
 - HTML + CSS
 - C/C++
-- Python
+- Java
