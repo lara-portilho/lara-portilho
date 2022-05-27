@@ -6,7 +6,7 @@
 
 ---
 
-✨ Olá, meu nome é Lara Portilho Marques. Sou uma desenvolvedora júnior, com foco em desenvolvimento web (principalmente frontend). Atualmente sou gerente de projetos na empresa ELO Jr Engenharias e Arquitetura e estudo Engenharia de Computação na UFG.<br><br>
+✨ Olá, meu nome é Lara Portilho Marques. Sou uma desenvolvedora júnior, com foco em desenvolvimento web (principalmente frontend). Atualmente sou estagiária na Way Data Solution e estudo Engenharia de Computação na UFG.<br><br>
 🌱 Apesar de ser jovem no mundo da programação, estou sempre em busca de aprender novas tecnologias e estar sempre em desenvolvimento.
 
 Linguagens
