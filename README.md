@@ -21,7 +21,7 @@
 
 ✨ Apaixonada por tecnologia desde pequena, encontrei minha vocação em programação na faculdade, com meus primeiros projetos em C. Entrei na empresa júnior do meu curso, na qual participei da produção de sites e sistemas web e, desde então, busco me aprofundar mais na área, em especial no frontend.<br>
 
-💻 Atualmente sou graduanda em Engenharia de Computação na UFG e estagiária de desenvolvimento frontend na Way Data Solution, trabalhando com ReactJs e NextJs.<br>
+💻 Atualmente sou graduanda em Engenharia de Computação na UFG e desenvolvedora frontend júnior na Way Data Solution, trabalhando com ReactJs e NextJs.<br>
 
 <div align="center">
 <!--   <img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=lara-portilho&show_icons=true&theme=dracula" alt="Lara's GitHub stats" /> -->
